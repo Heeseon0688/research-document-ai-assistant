@@ -55,9 +55,3 @@ Docker: `cp .env.example .env && docker compose up --build`.
 ## Sample data (local demo only)
 
 `sample_data/`의 PDF는 `scripts/generate_sample_pdfs.py`가 만드는 로컬 데모용 가상 연구문서입니다. 각 문서 첫 페이지에 `SYNTHETIC SAMPLE DATA FOR RAG DEMO`를 표시했으며 실제 연구자료나 제조 의사결정의 근거가 아닙니다. 예시 PDF와 로컬 ChromaDB 데이터는 GitHub에 올리지 않습니다.
-
-## Portfolio screenshot
-
-<!-- Add a screenshot or short screen recording here after running the frontend. -->
-
-![Application screenshot placeholder](docs/screenshot-placeholder.png)
