@@ -1,0 +1,16 @@
+.env
+.venv/
+.runtime/
+.bootstrap/
+.tools/
+.cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/
+sample_data/
+frontend-vite.log
+node_modules/
+dist/
+.DS_Store
+*.log
